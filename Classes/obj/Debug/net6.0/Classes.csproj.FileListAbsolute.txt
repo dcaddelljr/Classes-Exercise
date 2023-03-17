@@ -1,0 +1,15 @@
+/Users/dwightcaddell/Desktop/Projects/Classes-Exercise/Classes/bin/Debug/net6.0/Classes
+/Users/dwightcaddell/Desktop/Projects/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.deps.json
+/Users/dwightcaddell/Desktop/Projects/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.runtimeconfig.json
+/Users/dwightcaddell/Desktop/Projects/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.dll
+/Users/dwightcaddell/Desktop/Projects/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.pdb
+/Users/dwightcaddell/Desktop/Projects/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.csproj.AssemblyReference.cache
+/Users/dwightcaddell/Desktop/Projects/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dwightcaddell/Desktop/Projects/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.AssemblyInfoInputs.cache
+/Users/dwightcaddell/Desktop/Projects/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.AssemblyInfo.cs
+/Users/dwightcaddell/Desktop/Projects/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.csproj.CoreCompileInputs.cache
+/Users/dwightcaddell/Desktop/Projects/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.dll
+/Users/dwightcaddell/Desktop/Projects/Classes-Exercise/Classes/obj/Debug/net6.0/refint/Classes.dll
+/Users/dwightcaddell/Desktop/Projects/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.pdb
+/Users/dwightcaddell/Desktop/Projects/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.genruntimeconfig.cache
+/Users/dwightcaddell/Desktop/Projects/Classes-Exercise/Classes/obj/Debug/net6.0/ref/Classes.dll
