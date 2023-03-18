@@ -6,25 +6,13 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Classes/Program.cs">
-    <Files>
-      <File FileName="Classes/Program.cs" Line="13" Column="27" NotebookId="1" />
-      <File FileName="Classes/Car.cs" Line="21" Column="1" NotebookId="1" />
-    </Files>
-    <FloatingWindows>
-      <FloatingWindow WindowId="1" X="2414" Y="816" Width="1321" Height="952">
-        <Files>
-          <File FileName="../../Csharp practice/ClassesExample/ClassesExample/Program.cs" Line="28" Column="1" />
-          <File FileName="../../Csharp practice/ClassesExample/ClassesExample/Guitar.cs" Line="1" Column="1" />
-        </Files>
-      </FloatingWindow>
-    </FloatingWindows>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Classes" expanded="True">
             <Node name="Classes" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Car.cs" selected="True" />
             </Node>
           </Node>
         </State>
